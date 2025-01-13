@@ -6,12 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import utilities.Driver;
 import utilities.LoggerUtil;
 import utilities.PageHelper;
-import utilities.Config;
-import static utilities.Config.EXPLICIT_WAIT;
 import java.util.List;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.interactions.Actions;
-import java.time.Duration;
 
 public class QAPositionsPage extends BasePage {
 

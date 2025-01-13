@@ -9,7 +9,6 @@ import java.util.ArrayList;
 
 public class PageHelper {
     private static final int DEFAULT_TIMEOUT = Config.IMPLICIT_WAIT;
-    private static final int EXTENDED_TIMEOUT = Config.EXPLICIT_WAIT;
 
     public static void waitForSeconds(int seconds) {
         try {

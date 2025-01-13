@@ -9,7 +9,6 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import java.time.Duration;
 import java.util.HashMap;
 import java.util.Map;
-import java.io.File;
 
 public class Driver {
     private static ThreadLocal<WebDriver> driverPool = new ThreadLocal<>();

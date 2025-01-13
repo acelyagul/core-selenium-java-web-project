@@ -6,7 +6,6 @@ import pages.CareersPage;
 import pages.HomePage;
 import pages.QAPositionsPage;
 import pages.LeverApplicationPage;
-import utilities.LoggerUtil;
 import utilities.PageHelper;
 import utilities.Config;
 
